@@ -14,7 +14,7 @@ Data collected with custom script ('**get_data_inaturalist.ipynb**')
 Labels are folder names.  
 Only species with more than 99 observations were selected for this dataset (one photo = one observation)
 
-## Training model - `mushrooms_classification.ipynb`
+## Model
 
 ### Overview
 Jupyter notebook contains the process of training a MobileNet_v2 model for classifying 21 different mushroom species. The pre-trained weights (`MobileNet_V2_Weights`) from ImageNet are utilized, which originally achieved 71.878% top-1 accuracy and 90.286% top-5 accuracy on the ImageNet-1K dataset.
