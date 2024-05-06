@@ -3,7 +3,6 @@
 
 # pokemons_cnn_comparison
 
-## Project Overview
 A Jupyter notebook where I explore multiple neural network architectures to classify a dataset of 7,000 labeled Pokémon images. 
 
 ## Models Tested
